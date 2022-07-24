@@ -710,6 +710,9 @@ fieldset[disabled] .btn-submit.active {
   #reviews.wh-widget-page-reviews .swiper-button-prev {
       display: none;
   }
+	#reviews.wh-widget-page-reviews .swiper {
+		width: 100%;
+	}
 }
 
 @media (max-width: 500px) {
